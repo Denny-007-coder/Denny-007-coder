@@ -7,7 +7,7 @@
 ---
 
 ## 👤 About Me
-- ⚡ Passionate about coding, automation & hacking ethically  
+- ⚡ Passionate about coding, automation & ethical hacking  
 - 🐧 Open-source enthusiast | Contributor  
 - 🕶 Dark theme + Matrix vibes  
 - 💻 Languages: Python | Java | JavaScript | Bash | HTML/CSS  
@@ -16,10 +16,70 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 💻 Live Hacker Terminal Dashboard
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Denny-007-coder&show_icons=true&theme=chartreuse-dark&hide_border=true" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Denny-007-coder&theme=chartreuse-dark&hide_border=true" height="180em"/>
+  <img src="https://raw.githubusercontent.com/Denny-007-coder/terminal-dashboard/main/terminal.gif" width="80%" />
+</p>
+> **Features in Dashboard GIF:**  
+> - Matrix-style animation  
+> - Latest commits scrolling  
+> - Skill bars updating dynamically  
+> - GitHub stats live display  
+> - “Hacky terminal vibe” in dark mode
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Denny-007-coder&show_icons=true&theme=chartreuse-dark&hide_border=true" height="160em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Denny-007-coder&theme=chartreuse-dark&hide_border=true" height="160em"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denny-007-coder&layout=compact&theme=chartreuse-dark&hide_border=true" height="140em"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Denny-007-coder&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" />
+</p>
+
+---
+
+## 🔥 Top Repositories
+<p align="center">
+  <a href="https://github.com/Denny-007-coder/YourRepo1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Denny-007-coder&repo=YourRepo1&theme=chartreuse-dark" />
+  </a>
+  <a href="https://github.com/Denny-007-coder/YourRepo2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Denny-007-coder&repo=YourRepo2&theme=chartreuse-dark" />
+  </a>
+  <a href="https://github.com/Denny-007-coder/YourRepo3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Denny-007-coder&repo=YourRepo3&theme=chartreuse-dark" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Skills & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-90%-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-75%-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-85%-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bash-70%-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTML/CSS-95%-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-80%-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux-85%-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VSCode-90%-purple?style=for-the-badge" />
+</p>
+
+---
+
+## 📈 Live Contribution Heatmap
+<p align="center">
+  <img src="https://github.com/Denny-007-coder/Denny-007-coder/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -42,44 +102,31 @@
 
 ---
 
-## ⚡ Fun Hacky Vibes
-<p align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="400"/>
-</p>
-
----
-
-## 🛠️ My Skills
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
----
-
-## 💻 Matrix-style Code Run
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Denny-007-coder/matrix-effect/main/matrix.svg" width="100%" />
-</p>
-
----
-
-## 🔥 Top Repositories
-<p align="center">
-  <a href="https://github.com/Denny-007-coder/YourRepo1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Denny-007-coder&repo=YourRepo1&theme=chartreuse-dark" />
-  </a>
-  <a href="https://github.com/Denny-007-coder/YourRepo2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Denny-007-coder&repo=YourRepo2&theme=chartreuse-dark" />
-  </a>
-</p>
-
----
-
 <p align="center">
   <i>"Stay curious. Hack ethically. Break limits."</i>
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Denny-007-coder/terminal-dashboard/main/terminal.gif" width="90%" />
+</p>
+<p align="center">
+  <img src="https://github.com/Denny-007-coder/Denny-007-coder/blob/output/github-contribution-grid-snake.svg" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-95%-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-80%-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-85%-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bash-75%-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTML/CSS-95%-red?style=for-the-badge" />
+</p>
+<p align="center">
+  <a href="https://github.com/Denny-007-coder/YourRepo1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Denny-007-coder&repo=YourRepo1&theme=dark" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Denny-007-coder&theme=darkhub&no-frame=true&margin-w=15" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Denny-007-coder/matrix-effect/main/matrix-scroll.gif" width="100%" />
+</p>
+
